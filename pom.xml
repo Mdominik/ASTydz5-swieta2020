@@ -15,7 +15,7 @@
     <description>swieta2020</description>
 
     <properties>
-        <java.version>14</java.version>
+        <java.version>8</java.version>
         <vaadin.version>14.4.2</vaadin.version>
     </properties>
 
